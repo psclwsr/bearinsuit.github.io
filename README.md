@@ -1,2 +1,3 @@
 # pascalwdev.github.io
-my Website
+
+my portfolio / personal website for job applications and customers
